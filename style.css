@@ -1,0 +1,112 @@
+.footer{background-color: rgb(221, 217, 217);
+display: flex;
+align-items: flex-end;}
+
+.icons {display: flex;
+justify-content: space-around;
+gap: 200px;
+padding-left: 150px;
+padding-right: 100px;}
+
+nav a{color: black;
+text-decoration: none;
+display: block}
+
+.active{color: rgb(183, 5, 5);
+background-color: rgb(221, 217, 217);
+border-radius: 7px;
+padding-left: 40px;
+padding-right: 40px;
+height: 30px;}
+
+
+#g{width: 30px;
+height: auto;}
+
+#p {width: 30px;
+    height: auto;}
+#f{width: 25px;
+height: auto;
+padding-top: 20px;}
+#i {width: 50px;
+    height: auto;}
+
+header{display: flex;}
+#logo {width: 300px;
+padding-top: 10px;
+padding-left: 35px;}
+
+#menu{display: flex;
+gap: 200px;
+padding-left: 330px;
+padding-top: 10px;
+font-size: 20px;
+font-family: papyrus;}
+
+h1 {font-size: 30px;
+padding-left: 35px ;
+padding-top: 35px;
+font-family: papyrus;
+color: rgb(0, 0, 0);}
+
+
+#image {height: 450px;
+width: 320px;}
+
+#section1 {display: flex;
+gap: 100px;
+padding-right: 200px;
+font-size: 19px;
+font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+font: bold;}
+
+#contact{font-size: 18px;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+padding-left: 35px;}
+
+#port{font: papyrus;
+font-size: 18px;
+padding-top: 10px;
+padding-bottom: 50px;}
+
+.photo{width: 400px;
+height: 350px;}
+
+.section{display: flex;
+    gap: 50px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.paragrafi{font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;}
+.paragrafi1{font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+font-size: 19px;
+padding-left: 30px;
+padding-right: 600px;}
+
+#london{gap: 80px;
+    margin-inline-start: 15%;
+    padding-top: 5px;
+padding-bottom:2px ;}
+
+#parag{display: flex;
+gap: 50px;}
+
+.photo2{width: 350px;
+height: 450px;}
+
+#section2{display: flex;
+gap: 150px;
+padding-left: 30px;
+padding-right: 30px;}
+
+.paragrafi2{font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+font-size: 19px;
+padding-left: 30px;
+}
+
+.contact{display: flex;
+align-items: flex-end;}
+
+
+#caption{margin-left: 650px;}
